@@ -28,7 +28,13 @@ Dataset berupa audio yang sudah diubah menjadi representasi gambar
 
 ## 🗂️ Dataset Structure
 
-DataTrain/ ├── blues/ ├── classical/ ├── jazz/ ├── rock/ └── ...
+DataTrain/
+│
+├── blues/
+├── classical/
+├── jazz/
+├── rock/
+└── ...
 
 ------------------------------------------------------------------------
 
